@@ -1,0 +1,1 @@
+# eks-auto-mode-terraform
